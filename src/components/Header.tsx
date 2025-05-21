@@ -11,7 +11,7 @@ const Header: React.FC<HeaderProps> = ({ selectedCount }) => {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center">
           <Sparkles className="h-6 w-6 text-blue-500 mr-2" />
-          <h1 className="text-2xl font-bold text-gray-800">Activity Finder</h1>
+          <h1 className="text-2xl font-bold text-gray-800">Activity</h1>
         </div>
         
         <div className="flex items-center gap-2">
